@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\ender0ragon\desktop\new folder\stuff\something\something\item.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ender0ragon\desktop\new folder\stuff\something\something\source.cpp(210): warning C4018: '>': signed/unsigned mismatch
+  Something.vcxproj -> C:\Users\Ender0ragon\Desktop\New folder\Stuff\Something\Debug\Something.exe
+  Something.vcxproj -> C:\Users\Ender0ragon\Desktop\New folder\Stuff\Something\Debug\Something.pdb (Full PDB)
